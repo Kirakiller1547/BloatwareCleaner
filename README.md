@@ -7,6 +7,14 @@ Recommended: create a system restore point before your first bulk uninstall run.
 
 Checkpoint-Computer -Description "Before BloatwareCleaner" -RestorePointType "MODIFY_SETTINGS"
 
+
+Either install the Exe file in the releases or run the ps1 file with powershell:
+
+(1)  cd C:\Users\yourname\Downloads
+(2)  powershell -ExecutionPolicy Bypass -File .\BloatwareCleaner.ps1
+
+Note: To run the exe file youll need to deactivate your Windows defender!
+
 A lightweight PowerShell tool with a graphical interface for bulk-uninstalling programs on Windows. It reads installed applications directly from the registry, lets you filter and multi-select them, and automatically flags common OEM bloatware (trial antivirus, toolbars, pre-installed games, etc.) so you can clean up a new PC in minutes instead of clicking through dozens of individual uninstallers.
 
 Features:
@@ -17,7 +25,6 @@ One-click "select known bloatware" based on a built-in pattern list (fully custo
 Bulk uninstall with live progress log
 Export the full program list to CSV
 Requests admin rights automatically (most uninstallers need them)
-
 
 
 ⚠️ Use at your own risk
