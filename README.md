@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kirakiller1547/BloatwareCleaner/main/logo.png" alt="BloatwareCleaner logo" width="180">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/34d49140-15dd-409d-a1ce-4a436334481b" />
+>
 </p>
 
 <h1 align="center">BloatwareCleaner</h1>
