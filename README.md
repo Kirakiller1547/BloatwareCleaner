@@ -18,6 +18,9 @@
 
 ---
 
+
+<img width="902" height="624" alt="{E79C7185-F7A9-4A89-A68A-459D0D894E34}" src="https://github.com/user-attachments/assets/aaf13ba7-d763-4d04-b8d5-b9f039e8e986" />
+
 ## What it does
 
 BloatwareCleaner reads every installed program directly from the Windows registry (64-bit, 32-bit, and per-user entries), shows them in a sortable, filterable table, and lets you multi-select and uninstall in bulk. A built-in pattern list automatically flags common OEM bloatware — trial antivirus, toolbars, pre-installed games — so you're not clicking through dozens of individual uninstallers by hand.
